@@ -1,4 +1,4 @@
-[![MasterHead](Untitled design.jpg)]
+![MasterHead](glow1.jpg)
 <h1 align="center">Hi 👋, I'm Kishan Dewangan</h1>
 <h3 align="center">A Passionate Data Science Enthusiast</h3>
 
