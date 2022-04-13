@@ -1,8 +1,8 @@
 ![MasterHead](glow1.jpg)
 <h1 align="center">Hi 👋, I'm Kishan Dewangan</h1>
-<h3 align="center">A Passionate Data Science Enthusiast</h3>
+<h3 align="center">A Passionate Blockchian Application Developer</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **BlockChain Technology**
 
 - 📫 How to reach me **kishan.dewangan123@gmail.com**
 
