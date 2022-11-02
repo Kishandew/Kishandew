@@ -1,4 +1,4 @@
-![MasterHead](Hustle Pays off (1).png
+![MasterHead](Cover Kishan.jpg)
 <h1 align="center">Hi 👋, I'm Kishan Dewangan</h1>
 <h3 align="center">A Passionate Data Analyst </h3>
 
